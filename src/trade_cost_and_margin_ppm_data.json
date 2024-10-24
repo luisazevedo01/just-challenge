@@ -1,0 +1,807 @@
+{
+  "accountingCurrency": {
+    "id": "NOK"
+  },
+  "tradeCost": {
+    "aggregatedTrades": {
+      "grouping": [
+        "BY_MONTH",
+        "BY_PROVIDER"
+      ],
+      "data": [
+        {
+          "values": [
+            93013.2219654035
+          ],
+          "labels": [
+            "2018-01-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            109219.472661885
+          ],
+          "labels": [
+            "2018-01-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            82253.3650605214
+          ],
+          "labels": [
+            "2018-01-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            169256.594859205
+          ],
+          "labels": [
+            "2018-01-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            94672.1777141893
+          ],
+          "labels": [
+            "2018-02-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            119307.621336473
+          ],
+          "labels": [
+            "2018-02-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            171597.287599713
+          ],
+          "labels": [
+            "2018-02-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            59674.5173886415
+          ],
+          "labels": [
+            "2018-02-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            70126.2944113774
+          ],
+          "labels": [
+            "2018-03-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            92439.7074613425
+          ],
+          "labels": [
+            "2018-03-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            65332.0105655174
+          ],
+          "labels": [
+            "2018-03-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            104745.570886802
+          ],
+          "labels": [
+            "2018-03-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            146409.798448382
+          ],
+          "labels": [
+            "2018-04-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            110973.427126569
+          ],
+          "labels": [
+            "2018-04-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            73414.5825007538
+          ],
+          "labels": [
+            "2018-04-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            124285.665911073
+          ],
+          "labels": [
+            "2018-04-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            53404.6419814583
+          ],
+          "labels": [
+            "2018-05-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            24218.1851371665
+          ],
+          "labels": [
+            "2018-05-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            61707.0054919661
+          ],
+          "labels": [
+            "2018-05-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            42892.732410751
+          ],
+          "labels": [
+            "2018-05-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            134298.919955924
+          ],
+          "labels": [
+            "2018-06-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            154432.020498708
+          ],
+          "labels": [
+            "2018-06-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            110929.28694828
+          ],
+          "labels": [
+            "2018-06-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            67847.0737742853
+          ],
+          "labels": [
+            "2018-06-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            105590.435389728
+          ],
+          "labels": [
+            "2018-07-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            174843.380200892
+          ],
+          "labels": [
+            "2018-07-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            71990.394628879
+          ],
+          "labels": [
+            "2018-07-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            39991.4493716308
+          ],
+          "labels": [
+            "2018-07-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            178590.653287177
+          ],
+          "labels": [
+            "2018-08-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            108212.199334919
+          ],
+          "labels": [
+            "2018-08-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            43838.5584610888
+          ],
+          "labels": [
+            "2018-08-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            81794.1608211471
+          ],
+          "labels": [
+            "2018-08-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            189748.12077527
+          ],
+          "labels": [
+            "2018-09-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            89941.385714882
+          ],
+          "labels": [
+            "2018-09-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            90974.6796892998
+          ],
+          "labels": [
+            "2018-09-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            118654.497236499
+          ],
+          "labels": [
+            "2018-09-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            152823.029121003
+          ],
+          "labels": [
+            "2018-10-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            116431.391815146
+          ],
+          "labels": [
+            "2018-10-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            40057.7376919396
+          ],
+          "labels": [
+            "2018-10-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            102952.675050274
+          ],
+          "labels": [
+            "2018-10-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            121454.073395687
+          ],
+          "labels": [
+            "2018-11-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            103131.920192804
+          ],
+          "labels": [
+            "2018-11-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            103922.830147848
+          ],
+          "labels": [
+            "2018-11-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            159287.426914389
+          ],
+          "labels": [
+            "2018-11-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            96427.5806597645
+          ],
+          "labels": [
+            "2018-12-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            38304.53378262
+          ],
+          "labels": [
+            "2018-12-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            95740.7303628493
+          ],
+          "labels": [
+            "2018-12-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            67785.9182045831
+          ],
+          "labels": [
+            "2018-12-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            110313.899315757
+          ],
+          "labels": [
+            "2019-01-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            140679.25966981
+          ],
+          "labels": [
+            "2019-01-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            100702.386550773
+          ],
+          "labels": [
+            "2019-01-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            34393.9929435651
+          ],
+          "labels": [
+            "2019-01-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            143640.777078242
+          ],
+          "labels": [
+            "2019-02-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            118340.527527761
+          ],
+          "labels": [
+            "2019-02-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            75033.3178258986
+          ],
+          "labels": [
+            "2019-02-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            55370.3522921499
+          ],
+          "labels": [
+            "2019-02-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            81387.4814656552
+          ],
+          "labels": [
+            "2019-03-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            142206.989493409
+          ],
+          "labels": [
+            "2019-03-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            81697.4832685069
+          ],
+          "labels": [
+            "2019-03-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            72858.8439449964
+          ],
+          "labels": [
+            "2019-03-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            96589.6307756441
+          ],
+          "labels": [
+            "2019-04-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            72728.7126682867
+          ],
+          "labels": [
+            "2019-04-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            21912.82120572
+          ],
+          "labels": [
+            "2019-04-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            47013.5077310611
+          ],
+          "labels": [
+            "2019-04-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            76524.077021177
+          ],
+          "labels": [
+            "2019-05-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            135779.564695474
+          ],
+          "labels": [
+            "2019-05-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            63571.4075305887
+          ],
+          "labels": [
+            "2019-05-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            69269.2261521045
+          ],
+          "labels": [
+            "2019-05-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            211070.377456771
+          ],
+          "labels": [
+            "2019-06-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            124897.630463202
+          ],
+          "labels": [
+            "2019-06-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            122677.136634416
+          ],
+          "labels": [
+            "2019-06-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            89727.5795591463
+          ],
+          "labels": [
+            "2019-06-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            125296.593263352
+          ],
+          "labels": [
+            "2019-07-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            154909.9136099
+          ],
+          "labels": [
+            "2019-07-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            79878.2810948902
+          ],
+          "labels": [
+            "2019-07-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            173103.989610619
+          ],
+          "labels": [
+            "2019-07-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            134828.957106482
+          ],
+          "labels": [
+            "2019-08-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            164195.540222223
+          ],
+          "labels": [
+            "2019-08-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            139405.567547773
+          ],
+          "labels": [
+            "2019-08-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            31151.7802717902
+          ],
+          "labels": [
+            "2019-08-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            79734.0335065381
+          ],
+          "labels": [
+            "2019-09-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            22596.735023388
+          ],
+          "labels": [
+            "2019-09-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            104246.825861041
+          ],
+          "labels": [
+            "2019-09-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            14962.5496739416
+          ],
+          "labels": [
+            "2019-09-01",
+            "International Bank"
+          ]
+        },
+        {
+          "values": [
+            24869.3723797668
+          ],
+          "labels": [
+            "2019-10-01",
+            "Business Bank"
+          ]
+        },
+        {
+          "values": [
+            8932.84015103053
+          ],
+          "labels": [
+            "2019-10-01",
+            "Credit Bank"
+          ]
+        },
+        {
+          "values": [
+            8100.59164464734
+          ],
+          "labels": [
+            "2019-10-01",
+            "Fish Bank"
+          ]
+        },
+        {
+          "values": [
+            5040.0819399342
+          ],
+          "labels": [
+            "2019-10-01",
+            "International Bank"
+          ]
+        }
+      ]
+    }
+  }
+}

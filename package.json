@@ -1,0 +1,35 @@
+{
+  "name": "just-pairing-exercise",
+  "description": "Just Pairing Exercise",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "recharts": "^2.12.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "*",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": "^20.0.0",
+    "yarn": "^1.22.0"
+  }
+}
